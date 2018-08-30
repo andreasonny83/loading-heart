@@ -1,0 +1,25 @@
+{
+  "name": "loading-heart",
+  "version": "1.0.0",
+  "description": "Loading heart CSS animation.",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write \"**/*.{css,md,json}\"",
+    "open": "open src/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreasonny83/loading-heart.git"
+  },
+  "keywords": [],
+  "author": "andreasonny83 <andreasonny83@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andreasonny83/loading-heart/issues"
+  },
+  "homepage": "https://github.com/andreasonny83/loading-heart#readme",
+  "devDependencies": {
+    "prettier": "^1.14.2"
+  }
+}
